@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dongeng</title>
+    <style>
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: left;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav align="left">
+            <a href="webdongeng.html">HOME</a>
+            <a href="pengarang.html">ABOUT</a>
+            <a href="dongeng.html">DONGENG</a>
+        </nav>
+    </header>
+
+    <h1><center>PENGARANG</center></h1>
+    <center><img src="foto/dongeng/220px-Lewis_Carroll_1863.jpg" width="400" height="500" alt=""></center>
+    <h2><center>Lewis Caroll</center></h2>
+    <br>
+    <br>
+    <p align="left">    Lewis Carroll (nama samaran dari Charles Lutwidge Dodgson: 27 Januari 1832 – 14 Januari 1898) adalah seorang penulis, fotografer, pendeta Anglikan, dan matematikawan asal Inggris yang menulis dongeng anak-anak terkenal, Alice's Adventures in Wonderland.</p>
+    <p align="left">Lewis Carroll mempelajari ilmu matematika dan logika di Universitas Oxford hingga menjadi guru di tempat tersebut. Pada tahun 1861, dia menjadi seorang diakon di Gereja Katedral Kristus setelah menerima perintah suci dan berkomitmen untuk tidak menikah.</p>
+    <p align="left">Pada tahun 1865, dia menerbitkan dongeng lengkap Alice's Adventures in Wonderland yang di dalamnya terdapat ilustrasi hasil karya John Tenniel.[2] Pada tahun 1871, sekuel dongeng tersebut diterbitkan dengan judul Berburu Snark (The Hunting of The Snark) dan dia juga menulis puisi panjang berjudul Melalui Cermin (Through the looking-glass)</p>
+</body>
+</html>
