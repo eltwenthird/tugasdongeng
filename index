@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-color: #A8DEEB;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KARTU KELUARGA</title>
+</head>
+<body>
+    <img src="foto/garuda-simbol-nkri-elosistem-21.png" width="100" height="100" align="left" alt="">
+    <h1><center><b>KARTU KELUARGA</b></center></h1>
+    <h3><center><b>No. 1234567890123456</b></center></h3>
+    <br>
+    <p align="left">Nama kepala keluarga    : <b>ERI KURNIAWAN, ST</b></p>
+    <p align="left">Alamat                  : TEGALSARI, DAWUKAN</p>
+    <p align="left">RT/RW                   : 006/005</p>
+    <p align="left">Desa/kelurahan          : SENDANGTIRTO</p>
+    <br>
+    <table width="100%" border="2" cellpadding="4" style="border-collapse: collapse; border: 3px solid black;" align="center">
+        <thead>
+            <tr align="center">
+                <th>No.</th>
+                <th>Nama Lengkap</th>
+                <th>NIK</th>
+                <th>Jenis Kelamin</th>
+                <th>Tempat Lahir</th>
+                <th>Tanggal Lahir</th>
+                <th>Agama</th>
+                <th>Pendidikan</th>
+                <th>Jenis Pekerjaan</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr align="center" style="background-color: #529BAD;">
+                <td></td>
+                <td>(1)</td>
+                <td>(2)</td>
+                <td>(3)</td>
+                <td>(4)</td>
+                <td>(5)</td>
+                <td>(6)</td>
+                <td>(7)</td>
+                <td>(8)</td>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Drs. ERI KURNIAWAN</td>
+                <td>320123456789012</td>
+                <td>LAKI-LAKI</td>
+                <td>PURBALINGGA</td>
+                <td>27-06-1945</td>
+                <td>ISLAM</td>
+                <td>DIPLOMA IV/STRATA 2</td>
+                <td>DOKTER</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>NIKEN KUMALASARI, ST</td>
+                <td>320123456789012</td>
+                <td>PEREMPUAN</td>
+                <td>NEW YORK</td>
+                <td>12-09-1945</td>
+                <td>ISLAM</td>
+                <td>DIPLOMA IV/STRATA 2</td>
+                <td>KARYAWAN SWASTA</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>DASTAN FAWWAS KURNIAWAN</td>
+                <td>320123456789012</td>
+                <td>LAKI-LAKI</td>
+                <td>SEOUL</td>
+                <td>10-11-2006</td>
+                <td>ISLAM</td>
+                <td>TIDAK/BELUM SEKOLAH</td>
+                <td>BELUM/TIDAK BEKERJA</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">7</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">8</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">9</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">10</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+    <p></p>
+    <table width="100%" border="2" cellpadding="4" style="border-collapse: collapse; border: 3px solid black;" align="center">
+        <thead>
+            <tr align="center">
+                <th rowspan="2">No.</th>
+                <th rowspan="2">Status Pernikahan</th>
+                <th rowspan="2">Status Hubungan Dalam Keluarga</th>
+                <th rowspan="2">Kewarganegaraan</th>
+                <th colspan="2">Dokumen Imigrasi</th>
+                <th colspan="2">Nama Orang Tua</th>
+            </tr>
+            <tr align="center">
+                <th>No. Paspor</th>
+                <th>No. KITAS/KITAP</th>
+                <th>Ayah</th>
+                <th>Ibu</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr align="center" style="background-color: #529BAD;">
+                <td></td>
+                <td>(9)</td>
+                <td>(10)</td>
+                <td>(11)</td>
+                <td>(12)</td>
+                <td>(13)</td>
+                <td>(14)</td>
+                <td>(15)</td>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>KAWIN</td>
+                <td>KEPALA KELUARGA</td>
+                <td>WNI</td>
+                <td>-</td>
+                <td>-</td>
+                <td>SUPARLAN S.PD</td>
+                <td>ARINAH S.PD</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>KAWIN</td>
+                <td>ISTERI</td>
+                <td>WNI</td>
+                <td>-</td>
+                <td>-</td>
+                <td>H. SAMSURI</td>
+                <td>HENDANG TUTI KASWATI S.Pd.</td>
+                
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>BELUM KAWIN</td>
+                <td>ANAK</td>
+                <td>WNI</td>
+                <td>-</td>
+                <td>-</td>
+                <td>Drs. ERI KURNIAWAN</td>
+                <td>NIKEN KUMALASARI, ST</td>
+                
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">7</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">8</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">9</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">10</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <table width="40%" border="0" cellpadding="2" align="left">
+        <tbody>
+        <tr>
+            <td align="left">Dikeluarkan Tanggal</td>
+            <td align="left">:</td>
+            <td width="40%" border="1" style="border-collapse: collapse; border: 2px solid black; padding-inline: 1px;" align="center">18-11-2011</td>
+        </tr>
+        <tr>
+            <td align="left">LEMBAR</td>
+            <td align="left">:</td>
+            <td>I. Kepala Keluarga</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>II. Dukuh</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>III. Desa/Kelurahan</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>IV. Kecamatan</td>
+        </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <table width="60%" border="0" cellpadding="4" align="right">
+        <tbody>
+            <tr>
+                <td align="center">KEPALA KELUARGA</td>
+                <td align="center">KEPALA DINAS, KEPENDUDUKAN DAN CATATAN SIPIL</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center"><b><u>DRS. ERI KURNIAWAN</u></b></td>
+                <td align="center"><b><u>H. SUPARLAN. SM</u></b></td>
+            </tr>
+            <tr>
+                <td align="center"><font size="1">Tanda Tangan/Cap Jempol</font></td>
+                <td align="center"><font size="1">NIR 123456789100312023</font></td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>
