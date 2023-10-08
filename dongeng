@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dongeng</title>
+    <style>
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: left;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav align="left">
+            <a href="webdongeng.html">HOME</a>
+            <a href="pengarang.html">ABOUT</a>
+            <a href="dongeng.html">DONGENG</a>
+        </nav>
+    </header>
+<br>
+<br>
+    <center><img src="foto/dongeng/Ebook-Alice-in-Wonderland.jpg" width="400" height="500" walt="Alice in Wonderland"></center>
+   <br>
+   <br>
+   <h1><center>Alice in Wonderland</center></h1>
+   <p align="left">Alice in Wonderland bercerita tentang gadis kecil bernama Alice yang penasaran melihat kelinci putih dengan jaket merah yang membawa jam besar dan begitu nampak terburu-buru. Alice mengikutinya dan menemukan lubang. Alice terjatuh dalam lubang tersebut yang rupanya sebuah bangunan yang besar dan dalam. </p>
+   <p align="left">Ia terus mengikuti si kelinci putih tapi si kelinci tidak menyadarinya dan Alice pun kehilangannya. Ia menemukan pintu mungil. Ketika ia mengintip dari lubang kunci, ia melihat sebuah taman yang indah.</p>
+   <p align="left">Singkat cerita setelah berkutat dengan tubuhnya yang membesar dan mengecil ketika meminum sesuatu dari botol, ia pun berhasil masuk ke taman di balik pintu tersebut.</p>
+   <p align="left">Mulailah petualangan Alice yang aneh dari bertemu si kembar Tweedledee dan Tweedledum yang suka berpuisi, bersua ulat bulu yang memberinya sebuah jamur yang dapat membuatnya membesar dan mengecil,</p>
+   <p align="left">berkenalan dengan Chesire cat yang suka muncul dan menghilang tiba-tiba, dan diajak jamuan makan dengan The March Hare dan The Hatter, lantas bertemu Ratu Hati dan prajurit kartunya.</p>
+
+</body>
+</html>
